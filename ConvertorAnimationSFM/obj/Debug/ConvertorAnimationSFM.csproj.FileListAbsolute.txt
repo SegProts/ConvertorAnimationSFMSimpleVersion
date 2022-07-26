@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\VS_Projects\ConvertorAnimationSFM\ConvertorAnimationSFM\bin\Debug\ConvertorAnimationSFM.exe.config
+C:\Users\Sergey\Desktop\VS_Projects\ConvertorAnimationSFM\ConvertorAnimationSFM\bin\Debug\ConvertorAnimationSFM.exe
+C:\Users\Sergey\Desktop\VS_Projects\ConvertorAnimationSFM\ConvertorAnimationSFM\bin\Debug\ConvertorAnimationSFM.pdb
+C:\Users\Sergey\Desktop\VS_Projects\ConvertorAnimationSFM\ConvertorAnimationSFM\obj\Debug\ConvertorAnimationSFM.EditorModels.resources
+C:\Users\Sergey\Desktop\VS_Projects\ConvertorAnimationSFM\ConvertorAnimationSFM\obj\Debug\ConvertorAnimationSFM.FormApplication.resources
+C:\Users\Sergey\Desktop\VS_Projects\ConvertorAnimationSFM\ConvertorAnimationSFM\obj\Debug\ConvertorAnimationSFM.Properties.Resources.resources
+C:\Users\Sergey\Desktop\VS_Projects\ConvertorAnimationSFM\ConvertorAnimationSFM\obj\Debug\ConvertorAnimationSFM.csproj.GenerateResource.cache
+C:\Users\Sergey\Desktop\VS_Projects\ConvertorAnimationSFM\ConvertorAnimationSFM\obj\Debug\ConvertorAnimationSFM.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\VS_Projects\ConvertorAnimationSFM\ConvertorAnimationSFM\obj\Debug\ConvertorAnimationSFM.exe
+C:\Users\Sergey\Desktop\VS_Projects\ConvertorAnimationSFM\ConvertorAnimationSFM\obj\Debug\ConvertorAnimationSFM.pdb
+C:\Users\Sergey\Desktop\VS_Projects\ConvertorAnimationSFM\ConvertorAnimationSFM\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sergey\Desktop\VS_Projects\ConvertorAnimationSFM\ConvertorAnimationSFM\bin\Debug\System.Data.SQLite.xml
+C:\Users\Sergey\Desktop\VS_Projects\ConvertorAnimationSFM\ConvertorAnimationSFM\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Sergey\Desktop\VS_Projects\ConvertorAnimationSFM\ConvertorAnimationSFM\obj\Debug\ConvertorAnimationSFM.csproj.CopyComplete
+C:\Users\Sergey\Desktop\VS_Projects\ConvertorAnimationSFM\ConvertorAnimationSFM\obj\Debug\ConvertorAnimationSFM.csprojAssemblyReference.cache
